@@ -9,7 +9,7 @@ import ExclusiveLine from './Components/ExclusiveLine';
 import Collections from './Components/Collections';
 import BestSellers from './Components/BestSellers';
 import Footer from './Components/Footer';
-
+import Sale from './Components/Sale';
 import { BrowserRouter,Routes,Router, Route } from 'react-router-dom';
 
 
